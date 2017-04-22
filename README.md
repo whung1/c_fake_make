@@ -1,5 +1,5 @@
 # c_make
-a C-implementation to parse and make fake "Makefile's" titled Fakefiles with fake.c, relying on execlp and parsing "Fakefile"
+a C-implementation to parse and make fake "Makefile's" titled Fakefiles with fake.c, relying on execlp and child processes.
 
 1. Make fake.c by typing `make`
 2. use program "fake" that reads "Fakefile" to create executable programs
